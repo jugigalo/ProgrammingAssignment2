@@ -1,4 +1,4 @@
-## The function makeCacheMatrix gets a matrix as patameter
+## The function makeCacheMatrix gets a matrix as parameter
 ## and creates special Matrix stored in cache memory
 ## An example of how to call this function to create the matrix:
 ## x<-makeCacheMatrix(matrix(1:4, nrow = 2, ncol = 2))
